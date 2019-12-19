@@ -1,0 +1,57 @@
+{
+    "name": "Civis Analytics",
+    "description": "Chicago & DC",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/8767-civis-analytics.jpg",
+    "tags": [
+        "analysis",
+        "api provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/civis-analytics\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Civis Analytics",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/8767-civis-analytics.jpg",
+            "humanURL": "http:\/\/civisanalytics.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/civis-analytics-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/civisanalytics.com\/blog\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/civis-analytics"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/civis-python.readthedocs.io\/en\/v1.9.0\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/civisanalytics"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/CivisAnalytics"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/civisanalytics.com\/"
+        }
+    ]
+}
